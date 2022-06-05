@@ -2,7 +2,8 @@
 """
 Created on Mon May 23 16:34:32 2022
 
-@author: daniel
+@author: daniel.capannini@studio.unibo.it
+matricola: 0000971194
 """
 
 import socket as sk
